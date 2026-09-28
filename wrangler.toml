@@ -2,7 +2,7 @@ name = "rickyexpress"
 compatibility_date = "2026-09-25"
 
 [assets]
-diretório="/public"
+diretório="./public"
 html_handling = "auto-trailing-slash"
 not_found_handling = "404-page"
  
